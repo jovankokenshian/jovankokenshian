@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, Nice to meet you 👋
+
+<a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jovankokenshian&show_icons=true&theme=tokyonight" />
+</a>
+<a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jovankokenshian&layout=compact&theme=tokyonight"/>
+</a>
 
 <!--
 **jovankokenshian/jovankokenshian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
